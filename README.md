@@ -10,10 +10,10 @@
 ---
 
 ### 🚀 Giới thiệu nhanh về mình
-- 🎓 **Học vấn:** Sinh viên năm 1 ngành Công nghệ Thông tin
-- 🎮 **Định hướng:** Lập trình Game với **C++** và **Unreal Engine 5**
-- 💻 **Đang học trên trường:** Tư duy tính toán (**Python**), Toán & Giải thuật cơ bản
-- 🎯 **Mục tiêu năm nhất:** Nắm chắc Con trỏ, OOP trong C++ và hoàn thành mini-game 3D đầu tiên
+- 🎓 **Học vấn:** 
+- 🎮 **Định hướng:** 
+- 💻 **Đang học trên trường:** 
+- 🎯 **Mục tiêu năm nhất:** 
 
 ---
 
@@ -39,6 +39,12 @@
   <img src="https://herokuapp.com" />
 </div>
 
+### 🐍 Rắn săn cỏ xanh
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+  <img alt="github-snake" src="https://githubusercontent.com" />
+</picture>
 <!--
 **rutis02/rutis02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
